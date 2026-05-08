@@ -1,0 +1,15 @@
+body{
+     background-color: brown;
+}
+p {
+    text-align: center;
+    color: blueviolet
+}
+h1 {
+    color: greenyellow(0, 200, 0)
+
+}
+em trong {
+    color: brown;
+}
+
